@@ -1,0 +1,51 @@
+Order_ID,Customer_ID,Customer_Name,Order Date,Segment,Region,Product_Category,Product_Name,Order Value,Discount,Profit
+ORD-2024-001,CUST-101,John Smith,1-Jan-2025,Consumer,East,Electronics,Wireless Mouse,45.99,10%,12.5
+ORD-2024-002,CUST-102,Sarah Johnson,1-Feb-2025,Corporate,West,Office Supplies,Copy Paper Bundle,89.99,15%,25
+ORD-2024-003,CUST-103,Mike Davis,1-Mar-2025,Home Office,North,Furniture,Ergonomic Chair,349.99,20%,85
+ORD-2024-004,CUST-101,John Smith,1-Apr-2025,Consumer,East,Electronics,Laptop Stand,29.99,5%,8.5
+ORD-2024-005,CUST-104,Emily Brown,1-May-2025,Consumer,South,Office Supplies,Desk Organizer,24.99,0%,12
+ORD-2024-006,CUST-105,David Wilson,1-Jun-2025,Corporate,West,Electronics,USB Hub,35.99,10%,10
+ORD-2024-007,CUST-106,Lisa Anderson,1-Jul-2025,Home Office,East,Furniture,Standing Desk,599.99,25%,120
+ORD-2024-008,CUST-102,Sarah Johnson,1-Aug-2025,Corporate,West,Office Supplies,Sticky Notes Pack,15.99,20%,5.5
+ORD-2024-009,CUST-107,Robert Taylor,1-Sep-2025,Consumer,North,Electronics,Keyboard,79.99,15%,18
+ORD-2024-010,CUST-108,Jennifer Martinez,1-Oct-2025,Corporate,South,Furniture,Conference Table,1299.99,30%,200
+ORD-2024-011,CUST-103,Mike Davis,1-Nov-2025,Home Office,North,Office Supplies,Printer Paper,49.99,10%,15
+ORD-2024-012,CUST-109,Amanda White,1-Dec-2025,Consumer,West,Electronics,Webcam,89.99,0%,25
+ORD-2024-013,CUST-110,Christopher Lee,1-Jan-2025,Corporate,East,Office Supplies,Binders Set,34.99,15%,12
+ORD-2024-014,CUST-104,Emily Brown,1-Feb-2025,Consumer,South,Furniture,Bookshelf,189.99,20%,45
+ORD-2024-015,CUST-111,Matthew Garcia,1-Mar-2025,Home Office,North,Electronics,Monitor 24 inch,299.99,10%,75
+ORD-2024-016,CUST-105,David Wilson,1-Apr-2025,Corporate,West,Office Supplies,File Cabinet,159.99,5%,40
+ORD-2024-017,CUST-112,Jessica Rodriguez,1-May-2025,Consumer,South,Electronics,Wireless Keyboard,65.99,20%,15
+ORD-2024-018,CUST-106,Lisa Anderson,1-Jan-2025,Home Office,East,Furniture,Office Desk,449.99,15%,110
+ORD-2024-019,CUST-113,Daniel Hernandez,1-Feb-2025,Corporate,West,Office Supplies,Staplers,19.99,25%,6
+ORD-2024-020,CUST-107,Robert Taylor,1-Mar-2025,Consumer,North,Electronics,Mouse Pad,12.99,0%,4.5
+ORD-2024-021,CUST-114,Ashley Lopez,1-Apr-2025,Home Office,South,Furniture,Filing Cabinet,199.99,20%,50
+ORD-2024-022,CUST-108,Jennifer Martinez,1-May-2025,Corporate,South,Office Supplies,Pens Box,29.99,15%,10
+ORD-2024-023,CUST-115,Joshua Gonzalez,1-Jan-2025,Consumer,East,Electronics,Headphones,129.99,10%,35
+ORD-2024-024,CUST-109,Amanda White,1-Feb-2025,Consumer,West,Office Supplies,Notebooks,22.99,5%,8
+ORD-2024-025,CUST-116,Ryan Wilson,1-Mar-2025,Corporate,North,Furniture,Executive Chair,749.99,25%,180
+ORD-2024-026,CUST-110,Christopher Lee,1-Apr-2025,Corporate,East,Electronics,Docking Station,149.99,20%,40
+ORD-2024-027,CUST-117,Stephanie Moore,1-May-2025,Home Office,West,Office Supplies,Desk Lamp,39.99,0%,12
+ORD-2024-028,CUST-111,Matthew Garcia,2-Jun-2025,Home Office,North,Furniture,Storage Cabinet,279.99,15%,65
+ORD-2024-029,CUST-118,Brandon Taylor,2-Jul-2025,Consumer,South,Electronics,External Hard Drive,119.99,10%,30
+ORD-2024-030,CUST-112,Jessica Rodriguez,2-Aug-2025,Consumer,South,Office Supplies,Highlighters Set,14.99,20%,5
+ORD-2024-031,CUST-119,Nicole Anderson,2-Sep-2025,Corporate,East,Furniture,Meeting Table,899.99,30%,150
+ORD-2024-032,CUST-113,Daniel Hernandez,2-Oct-2025,Corporate,West,Electronics,Wireless Mouse,45.99,15%,12
+ORD-2024-033,CUST-120,Kevin Thomas,2-Feb-2025,Home Office,North,Office Supplies,Envelopes Pack,18.99,10%,6
+ORD-2024-034,CUST-114,Ashley Lopez,2-Mar-2025,Home Office,South,Electronics,Printer,249.99,5%,65
+ORD-2024-035,CUST-115,Joshua Gonzalez,2-Apr-2025,Consumer,East,Furniture,Computer Desk,329.99,20%,80
+ORD-2024-036,CUST-121,Samantha Jackson,2-May-2025,Corporate,West,Office Supplies,Calculator,24.99,15%,8
+ORD-2024-037,CUST-116,Ryan Wilson,2-Jun-2025,Corporate,North,Electronics,Scanner,179.99,10%,45
+ORD-2024-038,CUST-122,Tyler White,2-Jul-2025,Consumer,South,Office Supplies,Tape Dispenser,9.99,25%,3
+ORD-2024-039,CUST-117,Stephanie Moore,2-Aug-2025,Home Office,West,Furniture,Drawer Unit,139.99,0%,35
+ORD-2024-040,CUST-123,Justin Harris,2-Sep-2025,Corporate,East,Electronics,Monitor Mount,69.99,20%,18
+ORD-2024-041,CUST-118,Brandon Taylor,2-Oct-2025,Consumer,South,Office Supplies,Folders Pack,16.99,10%,6
+ORD-2024-042,CUST-124,Rachel Martin,2-Nov-2025,Home Office,North,Furniture,Lateral File,219.99,15%,55
+ORD-2024-043,CUST-119,Nicole Anderson,2-Dec-2025,Corporate,East,Electronics,USB Drive 32GB,19.99,5%,6
+ORD-2024-044,CUST-125,Eric Thompson,2-Jun-2025,Consumer,West,Office Supplies,Paper Clips,7.99,20%,2.5
+ORD-2024-045,CUST-120,Kevin Thomas,2-Jul-2025,Home Office,North,Furniture,Bookcase,259.99,25%,60
+ORD-2024-046,CUST-121,Samantha Jackson,2-Aug-2025,Corporate,West,Electronics,Keyboard & Mouse Combo,99.99,15%,28
+ORD-2024-047,CUST-126,Andrew Garcia,2-Sep-2025,Consumer,South,Office Supplies,Whiteboard,79.99,0%,22
+ORD-2024-048,CUST-122,Tyler White,2-Oct-2025,Consumer,South,Electronics,Surge Protector,29.99,10%,9
+ORD-2024-049,CUST-127,Michelle Martinez,2-Sep-2025,Home Office,East,Furniture,Credenza,489.99,20%,115
+ORD-2024-050,CUST-123,Justin Harris,2-Oct-2025,Corporate,East,Office Supplies,Label Maker,54.99,15%,16
